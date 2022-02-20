@@ -11,3 +11,14 @@
 	<a href="https://github.com/goawmfhfl/My-wiki"><img src="https://img.shields.io/badge/Git Wiki-TIL-EEEEEE?style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 
 </p>
+<h3 align="center"> 🛠 About Stack </h3><br>
+
+<p align="center">
+	
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=React&logoColor=white">
+</p>
