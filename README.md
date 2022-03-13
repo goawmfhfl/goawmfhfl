@@ -6,7 +6,7 @@
 <h3 align="center"> 🧑🏻‍💻 About Me </h3><br>
 
 <p align="center">
-    <a href="https://www.notion.so/herman94/ver-2-065a324bbd964dfcb2c2690685f70cf8"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
+    <a href="https://traveltogether.oopy.io/"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
     <a href="https://blog.naver.com/goawmfhfl1"><img src="https://img.shields.io/badge/Naver-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 	<a href="https://github.com/goawmfhfl/My-wiki"><img src="https://img.shields.io/badge/Git Wiki-TIL-EEEEEE?style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 </p>
